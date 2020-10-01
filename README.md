@@ -21,7 +21,7 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 
 ## Sites created using this template
 
-* Raise a PR to add your site to the list! :)
+* [ServisAriston.id](https://servisariston.id)
 
 
 ## Bugs and Issues
